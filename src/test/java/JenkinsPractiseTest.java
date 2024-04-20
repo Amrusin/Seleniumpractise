@@ -7,5 +7,6 @@ public class JenkinsPractiseTest {
 	public void Test1()
 	{
 		Reporter.log("********Login**********", true);
+		Reporter.log("********Logout**********", true);
 	}
 }
