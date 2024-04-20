@@ -8,5 +8,6 @@ public class JenkinsPractiseTest {
 	{
 		Reporter.log("********Login**********", true);
 		Reporter.log("********Logout**********", true);
+		//hi
 	}
 }
